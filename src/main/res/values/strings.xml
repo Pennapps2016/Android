@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LaserQR</string>
+    <string name="action_settings">Settings</string>
+    <string name="low_storage">Too Low Storage</string>
+    <string name="camera_permission_required">The Camera Permission is Required!</string>
+    <string name="camera_permission">The camera permission is needed to make this app work</string>
+
+</resources>

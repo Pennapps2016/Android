@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Tristan\\AndroidStudioProjects\\houndify-sdk-sample-0.2.16\\build\\intermediates\\res\\merged\\debug\\raw\\houndify_stop.wav",
+        "source": "C:\\Users\\Tristan\\AndroidStudioProjects\\houndify-sdk-sample-0.2.16\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.15\\res\\raw\\houndify_stop.wav"
+    },
+    {
+        "merged": "C:\\Users\\Tristan\\AndroidStudioProjects\\houndify-sdk-sample-0.2.16\\build\\intermediates\\res\\merged\\debug\\raw\\houndify_start.wav",
+        "source": "C:\\Users\\Tristan\\AndroidStudioProjects\\houndify-sdk-sample-0.2.16\\build\\intermediates\\exploded-aar\\hound.android\\hound-sdk\\0.2.15\\res\\raw\\houndify_start.wav"
+    }
+]
